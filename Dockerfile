@@ -7,8 +7,8 @@ COPY --chown=1000:100 spotify-project.ipynb .
 COPY --chown=1000:100 airbnb-dataset.csv .
 COPY --chown=1000:100 spotify-dataset.csv .
 COPY --chown=1000:100 photo.jpeg .
-COPY --chown=1000:100 Spotify项目.py .
-COPY --chown=1000:100 AirBnB练习.py .
+COPY --chown=1000:100 CN_Spotify_Project.ipynb .
+COPY --chown=1000:100 CN_AirBnB_Challenge.ipynb .
 
 # ./work is found inside official jupyter images, we avoid unnecessary nesting
 RUN rm -rf ./work
