@@ -1,0 +1,8 @@
+jupyter-offlinenotebook
+matplotlib
+matplotlib-inline
+numpy
+pandas
+scikit-learn
+seaborn
+urllib3
