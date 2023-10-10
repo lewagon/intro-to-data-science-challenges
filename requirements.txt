@@ -1,0 +1,8 @@
+jupyter-offlinenotebook==0.2.2
+matplotlib==3.8.0
+nbgitpuller==1.2.0
+numpy==1.26.0
+pandas==2.1.1
+scikit-learn==1.3.1
+seaborn==0.13.0
+urllib3==2.0.6
